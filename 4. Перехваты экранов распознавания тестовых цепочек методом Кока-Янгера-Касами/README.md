@@ -88,6 +88,7 @@ Accepted! или String is Rejected! и таблица продукций. В т
 
 Исходный код и вывод программы:
 
-[variant1.py](./variant1.py)
-[test_results.txt](./test_results.txt)
+[Код программы](./variant1.py)
+
+[Вывод результатов](./test_results.txt)
 
