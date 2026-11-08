@@ -1,0 +1,14 @@
+Результаты распознавания методом CYK:
+
+1. a=1        - Accept
+2. b=10+1     - Accept
+3. c=a+b*10   - Accept
+4. d=-(a+1)   - Accept
+5. e=a/b      - Accept
+6. f=1-0/1    - Accept
+7. a=(b-c)*10 - Accept
+8. g=1        - Reject
+9. a=2        - Reject
+10. a=1+       - Reject
+11. a=(1+0     - Reject
+12. a=1**0     - Reject
