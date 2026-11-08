@@ -90,5 +90,5 @@ Accepted! или String is Rejected! и таблица продукций. В т
 
 [Код программы](./practice4.py)
 
-[Вывод результатов](./result.txt)
+[Вывод результатов](./results.txt)
 
