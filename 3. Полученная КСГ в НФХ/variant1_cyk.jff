@@ -251,10 +251,10 @@
 	</production>&#13;
 	<production>&#13;
 		<left>O</left>&#13;
-		<right>(</right>&#13;
+		<right>[</right>&#13;
 	</production>&#13;
 	<production>&#13;
 		<left>H</left>&#13;
-		<right>)</right>&#13;
+		<right>]</right>&#13;
 	</production>&#13;
 </structure>
